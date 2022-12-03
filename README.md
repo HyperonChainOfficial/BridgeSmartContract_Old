@@ -1,3 +1,5 @@
 # Hyperon Chain Bridge Smart Contract
 
-Solidity Smart Contract Used By Bridge
+Solidity smart contract used by the Bridge
+
+Please check the UI:  https://bridge.hyperonchain.com/
